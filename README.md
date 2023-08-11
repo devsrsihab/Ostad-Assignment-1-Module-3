@@ -27,19 +27,19 @@ This project involves the conversion of an existing HTML landing page into a dyn
 To set up and run this project locally, follow these steps:
 
 1. Clone this repository:
-   git clone https://github.com/your-username/your-project.git
+- git clone https://github.com/your-username/your-project.git
 
 
 2. Navigate to the project directory:
-cd your-project
+- cd your-project
 
 
 3. Install dependencies:
-npm install
+- npm install
 
 
 4. Run the development server:
-npm run serve
+- npm run serve
 
 
 ## Usage
